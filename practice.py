@@ -55,3 +55,18 @@
 # print(friends[1:2])
 print("This change from the practice-branch")
 print("this change again from the practice-branch")
+print("we are doing code in practice branch")
+lucky_number = [4,5,5,6,3]
+friends = ["kevin","karen","Jim","Oscar"]
+friends.extend(lucky_number)
+print(friends)
+friends.append("len")
+print(friends)
+friends.insert(1,"Ram")
+print(friends)
+friends.remove("len")
+friends.pop()
+print(friends)
+print(friends)
+friends.clear()
+print(friends)
