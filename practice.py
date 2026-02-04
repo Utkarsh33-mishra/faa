@@ -53,20 +53,45 @@
 # friends =["Kevin","Karen","Jim"]
 # friends[1]="Mike"
 # print(friends[1:2])
-print("This change from the practice-branch")
-print("this change again from the practice-branch")
-print("we are doing code in practice branch")
-lucky_number = [4,5,5,6,3]
-friends = ["kevin","karen","Jim","Oscar"]
-friends.extend(lucky_number)
-print(friends)
-friends.append("len")
-print(friends)
-friends.insert(1,"Ram")
-print(friends)
-friends.remove("len")
-friends.pop()
-print(friends)
-print(friends)
-friends.clear()
-print(friends)
+# print("This change from the practice-branch")
+# print("this change again from the practice-branch")
+# print("we are doing code in practice branch")
+# lucky_number = [4,5,5,6,3]
+# friends = ["kevin","karen","Jim","Oscar"]
+# friends.extend(lucky_number)
+# print(friends)
+# friends.append("len")
+# print(friends)
+# friends.insert(1,"Ram")
+# print(friends)
+# friends.remove("len")
+# friends.pop()
+# print(friends)
+# print(friends)
+# friends.clear()
+# print(friends)
+# print("tuple")
+# coordinate = (4,5)
+# print(coordinate[1])
+# print('function')
+# def say_hi():
+#     print("Hello User")
+# print("k")
+# say_hi()
+# print("p")
+# def sayhi(name,age):
+#     print("Hello" + name + str(age))
+
+# sayhi("utkarsh",24)
+# sayhi("ram",25)
+# print("return function")
+# def cube(num):
+#     return num*num*num
+
+# print(cube(4))
+print()
+def cube(num):
+    return num*num*num
+
+result = cube(5)
+print(result)
