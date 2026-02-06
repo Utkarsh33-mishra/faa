@@ -1,3 +1,3 @@
-print("tuple")
-# coordinate = (4,5)
-# print(coordinate[1])
+lucky_number = [4,5,5,6,3]
+friends = ["kevin","karen","Jim","Oscar"]
+friends.extend(lucky_number)

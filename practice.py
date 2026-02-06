@@ -17,7 +17,7 @@
 # print("He is" + str(character_age )+"," )
 # k = "ram"
 # print(k.replace("ram","shyam"))
-#  play with number
+# print("play with number")
 # my_num = -5
 # print(abs(my_num))
 # print(10 %3)
@@ -34,7 +34,6 @@
 # color = input("Enter a color :")
 # plural_noun = input("Enter a plural Noun :")
 # celebrity = input("Enter a celebrity :")
-
 # print("Roses are" + color)
 # print(plural_noun + "are blue")
 # print("I love" + celebrity)
@@ -47,9 +46,7 @@
 # print("lifes are made with " + risk)
 # print("utkarsh is going to make"+ opportunity)
 # print("Joy it make it happen" +Game)
-
 # print(list)
-
 # friends =["Kevin","Karen","Jim"]
 # friends[1]="Mike"
 # print(friends[1:2])
@@ -89,9 +86,41 @@
 #     return num*num*num
 
 # print(cube(4))
-print()
-def cube(num):
-    return num*num*num
+# print()
+# def cube(num):
+#     return num*num*num
 
-result = cube(5)
-print(result)
+# result = cube(5)
+# print(result)
+# is_male = True
+# is_tall = False
+
+# if is_male and is_tall:
+#     print("You are a male and tall or both")
+# elif is_male and not(is_tall):
+#    print("he is mk")
+# else:
+#     print("You are either not male nor tall")
+# def max_num(num1,num2,num3):
+#     if num1>=num2 and num1>=num3:
+#         return num1
+#     elif num2>=num3 and num2>=num1:
+#         return num2
+#     else:
+#         return num3
+    
+# print(max_num(3,40,5))
+# print("calculator")
+# num1 = int(input("Enter the first number:"))
+# num2 = int(input("Enter the second number:"))
+
+# print("\n addition", num1 + num2)
+# print("\n subtraction", num1 - num2)
+# print("\n multiplication", num1 * num2) 
+# # division handle by zero vala rule
+# if num2 != 0:
+#    print("Division:",num1/num2)
+# else:
+#    print("division not possible")
+
+ 
