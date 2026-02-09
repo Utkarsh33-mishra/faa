@@ -122,5 +122,34 @@
 #    print("Division:",num1/num2)
 # else:
 #    print("division not possible")
+# print()
+# num1 = float(input("Enter the first number:"))
+# op = input("Enter the operator:")
+# num2 = float(input("Enter the second number:"))
 
- 
+# if  op =='+':
+#     print(num1+num2)
+# elif op =='-':
+#     print(num1-num2)
+# elif op =='/':
+#     print(num1/num2)
+# elif op =='*':
+#     print(num1*num2)
+
+# else:
+#     print("Invalid operator:")
+# print('Dictonary')
+# monthConversion ={
+#     "Jan":"January",
+#     "feb":"february",
+#     "Mar":"March",
+# }
+
+# print(monthConversion.get("Jan"))
+# print()
+# i = 1
+# while i<= 10:
+#     print(i)
+#     i += 1
+
+# print("Done with loop")
