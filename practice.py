@@ -153,3 +153,54 @@
 #     i += 1
 
 # print("Done with loop")
+# print("guessing game:")
+# secert_word = "ram"
+# guess  = ""
+# guess_count = 0
+# guess_limit = 3
+# out_of_guesses = False
+ 
+# while guess != secert_word and not out_of_guesses:
+#     if guess_count < guess_limit:
+#         guess = input("Enter guess:")
+#         guess_count += 1
+#     else:
+#         out_of_guesses = True
+
+# if out_of_guesses :
+#     print("out of guesses ,you lose !")
+# else:
+#     print("You win !")
+# print("for loop")
+# friends = ["kevin","Ram","Cat"]
+# for friend in friends:
+#     print(friend)
+# for index in range(1,5):
+#     print(index)
+# for index in range(5):
+#     if index == 0:
+#         print("First Iteration")
+#     else:
+#         print("my love lord rama")
+# def raise_to_power(base_num,pow_num):
+#     result = 1
+#     for index in range(pow_num):
+#        result= result*base_num
+#     return result
+
+# print(raise_to_power(13,3))
+# number_grid =[
+#     [1,2,3],
+#     [4,5,6],
+#     [7,8,9],
+#     [0]
+# ]
+
+# # print(number_grid[3][0])
+# for row in number_grid:
+#     for col in row:
+#         print(col)
+
+  
+
+ 
