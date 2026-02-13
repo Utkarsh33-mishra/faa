@@ -1,1 +1,1 @@
-print(employee_file.read())
+print(employee_file.readlines()[1])
